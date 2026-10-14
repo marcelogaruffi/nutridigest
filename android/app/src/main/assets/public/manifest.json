@@ -1,0 +1,23 @@
+{
+  "id": "/",
+  "name": "NutriDigest - Controle Alimentar & Sintomas",
+  "short_name": "NutriDigest",
+  "description": "Diário pessoal de alimentação e controle de sintomas intestinais, gases, cólicas e diarreia.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0f172a",
+  "theme_color": "#059669",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "categories": ["health", "medical", "lifestyle"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
